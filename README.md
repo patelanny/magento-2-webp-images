@@ -10,7 +10,7 @@ MageComp's Magento 2 WebP picture accept Extension improves the default Magento'
 </a>
 
 # What About the Pricing?
-* Price= $149
+* Price= $99
   
 # Compatibility with Magento Versions
 Magento 2.2.X to 2.4.6 (CE, EE, ECE)
